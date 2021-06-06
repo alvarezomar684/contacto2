@@ -1,0 +1,155 @@
+@media (max-width: 1320px){
+    
+    .shadow-tittle {        
+        font-size: 100px;       
+                
+    }   
+    
+
+    textarea {
+        width: 652px;
+    }
+
+    input[type="text"], 
+    input[type="email"] {
+        width: 193px;
+        
+        
+    }
+
+    .grandchild-03-03 > input[type="text"] {       
+        
+        
+    }
+
+    
+    
+    .son-03 {
+        margin-left: -63px;
+    }
+    
+}
+
+@media (max-width: 960px){
+
+    
+
+    .shadow-tittle {        
+        font-size: 114px;           
+        margin-top: -33px;
+        letter-spacing: 5.2px;
+        
+    }   
+    
+
+    textarea {
+        width: 450px;
+    }
+
+    input[type="text"], 
+    input[type="email"] {
+        width: 192px;
+        
+        
+    }
+
+    .grandchild-03-02 > input[type="email"] {       
+        margin-right: 40px;
+        
+    }    
+    
+    .son-03 {
+        margin-left: -38px;
+    }
+
+    .grandchild-02-03 > div:nth-child(2) > span > span {
+        font-size: 14px;
+    }
+
+    .grandchild-02-03 > div:first-child > span{
+        font-size: 20px;
+    }
+
+    .gear {
+        font-size: 18px;
+        margin: 0 auto;      
+    }
+
+    .grandchild-02-05 > a {
+        font-size: 35px;
+    }
+
+    .grandchild-02-02 {
+        width: 79%;
+    }
+
+    .son-02 {
+        height: 361px;
+    }
+    
+    .grandchild-02-04 > div:first-child {
+        margin-right: 6px;
+    }
+}
+
+@media (max-width: 540px){
+    textarea {
+        width: 193px;
+    }
+
+    input[type="text"], 
+    input[type="email"] {
+        width: 192px;
+        margin-bottom: 10px;
+        
+        
+    }
+
+    .son-02 {
+        flex-basis: 78%;
+        margin-left: 62px;
+        height: 305px;
+        margin-bottom: 30px;
+        margin-top: -40px;
+    }
+    
+    .son-05 > h2 {
+        font-size: 32px;
+        margin-top: 111px;
+        margin-right: 202px;
+        
+              
+    }
+
+    .shadow-tittle {        
+        font-size: 64px;           
+        margin-top: 87px;
+        letter-spacing: 5.2px;
+        margin-left: -514x;
+        
+    } 
+
+    .son-01 {        
+        margin-top: 2px;
+          
+               
+    }
+
+    
+
+    .son-03 {
+        margin-left: 144px;
+        margin-bottom: 179px;
+        flex-basis: 52%;      
+        
+    }
+
+    .son-04 {
+        
+        position: fixed;
+        margin-left: 456px;
+        margin-bottom: 691px;
+    }
+    
+}
+
