@@ -423,5 +423,7 @@ input[type="email"] {
     font-family: "WebSymbolsRegular";    
 }
 
-
+.color-blue {
+    color: blue !important;
+}
 
