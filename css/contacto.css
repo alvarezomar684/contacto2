@@ -5,8 +5,7 @@
     font-family: 'Open Sans';
     color: #FFFFFF;
     list-style: none;
-    text-decoration: none;
-    
+    text-decoration: none;    
 }
 
 body {
@@ -34,11 +33,10 @@ body {
       url(https://example.com/MaterialIcons-Regular.woff2) format('woff2'),
       url(https://example.com/MaterialIcons-Regular.woff) format('woff'),
       url(https://example.com/MaterialIcons-Regular.ttf) format('truetype');
-  }
+}
 
 .gear,.arrow, .icon {
-    font-family: "WebSymbolsRegular";
-    
+    font-family: "WebSymbolsRegular";    
 }
 
 .father {
@@ -187,10 +185,6 @@ body {
     
 }
 
-.grandchild-03 {
-
-}
-
 .grandchild-03-01 {
     flex-basis: 33.33%;
 }
@@ -207,6 +201,13 @@ body {
     flex-basis: 100%;    
 }
 
+.grandchild-03-05 > a {
+    color: #ADADAD;
+}
+
+.grandchild-03-05 > a > span {
+    color: #ffb400;
+}
 
 .son-04 {
     flex-basis: 5%;    
